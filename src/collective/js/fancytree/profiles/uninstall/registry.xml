@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<registry>
+
+  <records prefix="plone.bundles/fancytree"
+           interface="Products.CMFPlone.interfaces.IBundleRegistry"
+           remove="True" />
+
+  <records prefix="plone.bundles/fancytree-theme"
+           interface="Products.CMFPlone.interfaces.IBundleRegistry"
+           remove="True" />
+
+</registry>

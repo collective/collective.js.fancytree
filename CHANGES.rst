@@ -4,7 +4,10 @@ Changelog
 2.20.0.2 (unreleased)
 ---------------------
 
-- Nothing changed yet.
+- Add Plone 6.1 compatibility, drop Plone 4 compatibility
+  Also update Fancytree to 2.38.5
+  Also migrate package from flat-layout to src-layout
+  Also add tests
 
 
 2.20.0.1 (2019-05-16)

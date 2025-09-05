@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<registry>
+
+  <records prefix="plone.bundles/fancytree-theme"
+           interface="Products.CMFPlone.interfaces.IBundleRegistry">
+    <value key="enabled">True</value>
+    <value key="csscompilation">++resource++collective.js.fancytree.theme-vista/ui.fancytree.min.css</value>
+    <value key="depends">fancytree</value>
+    <value key="load_async">False</value>
+    <value key="load_defer">False</value>
+  </records>
+
+</registry>
